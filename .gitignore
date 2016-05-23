@@ -26,3 +26,4 @@ vignettes/*.pdf
 *.csv
 *.zip
 *.pdf
+*/data
