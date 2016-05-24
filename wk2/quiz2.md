@@ -1,0 +1,1 @@
+Since someone has published a pretty neat answer at [https://github.com/cynthia0611/Coursera-R-Programming/blob/master/Week-2/Quiz%202.md](https://github.com/cynthia0611/Coursera-R-Programming/blob/master/Week-2/Quiz%202.md), I would not repeat that. 
